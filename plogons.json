@@ -2,26 +2,24 @@
   {
     "Author": "UnknownX, Ted",
     "Name": "OOBlugin",
-    "Punchline": "oob oob",
-    "Description": "oob oob",
-    "Changelog": "",
     "InternalName": "OOBlugin",
     "AssemblyVersion": "1.1.2.11",
-    "RepoUrl": "https://github.com/TedOhBear/OOBlugin/tree/master",
+    "Description": "oob oob.",
+    "RepoUrl": "https://github.com/TedOhBear/OOBlugin",
     "ApplicableVersion": "any",
-    "CategoryTags": [
-      "utility"
+    "Tags": [
+        "utility"
     ],
     "DalamudApiLevel": 12,
-    "IconUrl": "",
-    "ImageUrls": [
-      ""
-    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "oob oob",
+    "AcceptsFeedback": false,
+    "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/TedOhBear/OOBlugin/releases/download/1.1.2.11/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/TedOhBear/OOBlugin/releases/download/1.1.2.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/TedOhBear/OOBlugin/releases/download/1.1.2.11/latest.zip",
-    "DownloadCount": 0
+    "DownloadLinkTesting": "https://github.com/TedOhBear/OOBlugin/releases/download/1.1.2.11/latest.zip"
   }
 ]
