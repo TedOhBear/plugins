@@ -22,6 +22,29 @@
     "DownloadLinkUpdate": "https://github.com/TedOhBear/OOBlugin/releases/download/2.0.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/TedOhBear/OOBlugin/releases/download/2.0.0.0/latest.zip"
   },
+    {
+    "Author": "Ted",
+    "Name": "CSSkip",
+    "InternalName": "CSSkip",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Who has time for Praetorium cutscenes?",
+    "RepoUrl": "https://github.com/TedOhBear/CSSkip",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Who has time for Praetorium cutscenes?",
+    "AcceptsFeedback": true,
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/TedOhBear/CSSkip/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TedOhBear/CSSkip/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TedOhBear/CSSkip/releases/download/0.0.0.1/latest.zip"
+  },
   {
     "Author": "Ted",
     "Name": "Hrothgar Begone",
